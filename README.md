@@ -20,7 +20,7 @@ The objective of this project is to:
 
 ---
 
-## 🛠 Tools and Technologies
+## Tools and Technologies
 
 * Python
 * Google Colab
@@ -97,7 +97,7 @@ This project demonstrates skills useful for HR and analytics roles such as:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Tamanna
 
